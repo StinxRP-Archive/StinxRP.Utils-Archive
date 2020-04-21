@@ -1,0 +1,5 @@
+E:\Projects\StinxRP\Public\StinxRPUtils\bin\Debug\netstandard2.0\StinxRPUtils.deps.json
+E:\Projects\StinxRP\Public\StinxRPUtils\bin\Debug\netstandard2.0\StinxRPUtils.dll
+E:\Projects\StinxRP\Public\StinxRPUtils\obj\Debug\netstandard2.0\StinxRPUtils.csprojAssemblyReference.cache
+E:\Projects\StinxRP\Public\StinxRPUtils\obj\Debug\netstandard2.0\StinxRPUtils.AssemblyInfoInputs.cache
+E:\Projects\StinxRP\Public\StinxRPUtils\obj\Debug\netstandard2.0\StinxRPUtils.AssemblyInfo.cs

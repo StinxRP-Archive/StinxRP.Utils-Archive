@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StinxRPUtils", "StinxRPUtils.csproj", "{BA9B7ABC-7F5C-4CB6-82B0-86EB74848D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9B7ABC-7F5C-4CB6-82B0-86EB74848D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9B7ABC-7F5C-4CB6-82B0-86EB74848D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9B7ABC-7F5C-4CB6-82B0-86EB74848D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9B7ABC-7F5C-4CB6-82B0-86EB74848D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A793154-603E-4E39-9A77-353E34424850}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+E:\Projects\StinxRP\Public\StinxRPUtils\obj\Release\netstandard1.2\StinxRPUtils.csprojAssemblyReference.cache
+E:\Projects\StinxRP\Public\StinxRPUtils\obj\Release\netstandard1.2\StinxRPUtils.csproj.CoreCompileInputs.cache
+E:\Projects\StinxRP\Public\StinxRPUtils\obj\Release\netstandard1.2\StinxRPUtils.AssemblyInfoInputs.cache
+E:\Projects\StinxRP\Public\StinxRPUtils\obj\Release\netstandard1.2\StinxRPUtils.AssemblyInfo.cs

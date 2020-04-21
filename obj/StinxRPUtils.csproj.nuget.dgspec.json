@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\StinxRP\\Public\\StinxRPUtils\\StinxRPUtils.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\StinxRP\\Public\\StinxRPUtils\\StinxRPUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\StinxRP\\Public\\StinxRPUtils\\StinxRPUtils.csproj",
+        "projectName": "StinxRPUtils",
+        "projectPath": "E:\\Projects\\StinxRP\\Public\\StinxRPUtils\\StinxRPUtils.csproj",
+        "packagesPath": "C:\\Users\\Muulfz\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\StinxRP\\Public\\StinxRPUtils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muulfz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.2": {
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2020.1.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Security.Cryptography.Algorithms": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
